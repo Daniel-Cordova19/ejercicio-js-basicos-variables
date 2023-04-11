@@ -3,10 +3,10 @@
 let texto = "singulars"; // Si cambiaramos esta palabra, debería seguir funcionando todos los ejercicios
 
 console.log("Ejercicio 1: Longitud del string"); 
-console.log();  // por ejemplo, aquí, entre los paréntesis, tenemos que poner: texto.length
+console.log(texto.length);  // por ejemplo, aquí, entre los paréntesis, tenemos que poner: texto.length
 
 console.log("Ejercicio 2: Primer carácter del string"); 
-console.log(); 
+console.log(texto.length(0)); 
 
 console.log("Ejercicio 3: Último carácter del string"); 
 console.log(); 
