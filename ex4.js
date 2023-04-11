@@ -16,7 +16,17 @@
  * 
  */
 
-let numeroGatos = 10;
+// * 1. Número de gatos
+// * 2. Tu próxima pareja
+// * 3. Un país donde te gustaría vivir
+// * 4. Un trabajo de ensueño
 
-let futuro = "tendréis " + numeroGatos + " gatos";
+let numeroPerros = 10 + " perros";
+let proximaPareja = "Karol G";
+let paisNuevoHogar = "la nueva Venezuela ";
+let trabajoSueño = "programador ";
+
+
+let futuro = "Estarás en " + paisNuevoHogar + "trabajando de " + trabajoSueño +  "y tendréis " +  numeroPerros;
 console.log(futuro);
+
